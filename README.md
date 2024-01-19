@@ -19,4 +19,4 @@ To run the application, you need Visual Studio or another C# development environ
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Rymdhest/SQLiteWindowsForms.git
+   git clone https://github.com/Rymdhest/SQLiteWindowsFormsExample.git
