@@ -2,6 +2,9 @@
 
 This is a simple Windows Forms application in C# that uses SQLite to manage a car database.
 
+![image](https://github.com/Rymdhest/SQLiteWindowsFormsExample/assets/52751206/1749849b-7321-4d84-80da-e527005ec72e)
+
+
 ## Features
 
 - Load data from the database into a DataGridView.
